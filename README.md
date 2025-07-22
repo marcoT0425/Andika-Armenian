@@ -1,5 +1,5 @@
-# Andika-Armenian
-Andika Armenian is the Armenian version of Andika by SIL Global. It has 104 glyphs. If you found any problems or incorrectly-designed glyphs, you can create a new issue or contact me.
+# Grely
+Grely is the Armenian version of Andika by SIL Global.  If you found any problems or incorrectly-designed glyphs, you can create a new issue or contact me.
 
 Sample:
 
